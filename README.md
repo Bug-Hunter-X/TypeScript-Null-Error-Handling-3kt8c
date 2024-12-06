@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: attempting to access a property of a potentially null or undefined value.  The `bug.ts` file shows the error, while `bugSolution.ts` presents several ways to mitigate this issue.
